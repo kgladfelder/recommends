@@ -10,6 +10,7 @@
 * [Ask Me Another](https://www.npr.org/podcasts/510299/ask-me-another)
 * [Wait, Wait, Don't Tell Me](https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me)
 * [Reading Glasses](https://www.maximumfun.org/shows/reading-glasses)
+* [Triple Click](https://maximumfun.org/podcasts/triple-click/)
 
 ## History
 
@@ -20,11 +21,12 @@
 ## RPG/Tabletop
 
 * [The Adventure Zone](https://www.maximumfun.org/shows/adventure-zone)
-* [Sneak Attack!](https://sneakattack.libsyn.com/)
+* [Sneak Attack!](https://sneakattack.libsyn.com/) - Dead
 
 ## Sports
 
 * [Deadcast](https://deadspin.com/c/deadcast) - Dead
+* [The Distraction](https://www.stitcher.com/podcast/stitcher/the-distraction) - New verison of Deadcast
 * [Only a Game](https://www.npr.org/podcasts/510052/only-a-game)
 * [The Totally Football Show with James Richardson](https://www.thetotallyfootballshow.com/)
 
@@ -35,6 +37,7 @@
 * [Lore](https://www.lorepodcast.com/)
 * [Myths and Legends](https://www.mythpodcast.com/)
 * [Wolverine: The Long Night / The Lost Trail](https://www.wolverinepodcast.com/)
+* [The Outer Reach](https://maximumfun.org/podcasts/the-outer-reach/)
 
 ## Technology
 
