@@ -253,6 +253,11 @@
 [TVDB](https://www.thetvdb.com/series/heroes)
 >Heroes is a cult serial saga about people all over the world discovering that they have superpowers and trying to deal with how this change affects their lives. Not only are they discovering what having superpowers means to them but also the larger picture of where those powers come from and what they might mean to the rest of the world.
 
+### Lovecraft Country
+
+[TVDB](https://www.thetvdb.com/series/lovecraft-country)
+>A young African-American travels across the U.S. in the 1950s in search of his missing father.
+
 ### Mad Men
 
 [TVDB](https://www.thetvdb.com/series/mad-men)
@@ -272,6 +277,11 @@
 
 [TVDB](https://www.thetvdb.com/series/mr-robot)
 >Mr. Robot follows Elliot, a young programmer who works as a cyber-security engineer by day and a vigilante hacker by night. Elliot finds himself at a crossroads when the mysterious leader of an underground hacker group recruits him to destroy the corporation
+
+### Suits
+
+[TVDB](https://www.thetvdb.com/series/suits)
+>College drop-out Mike Ross accidentally lands a job with one of New York's best legal closers, Harvey Specter. They soon become a winning team with Mike's raw talent and photographic memory, and Mike soon reminds Harvey of why he went into the field of law in the first place.
 
 ### Supergirl
 
