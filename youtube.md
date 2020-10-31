@@ -4,7 +4,7 @@ Links to follow soon.
 
 ## Makers
 
-* Adam Savage's Tested - Props, Costumes, Gadgets
+* [Adam Savage's Tested - Props, Costumes, Gadgets](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
 * AWE me - Forging/Smithing
 * AvE - Electronics builds, Tool Teardowns, Milling and Metalcraft with an interesting personality
 * Mark Rober - Applied engineering to make weird stuff
@@ -67,6 +67,7 @@ Links to follow soon.
 * LoadingReadyRun - humorous skits and panels with a side of Magic the Gathering and Gaming.
 * Lucas the Spider - cute adventures of a baby CGI spider.
 * Ryan George - The guy from Pitch Meetings on Screen Rant doing his own humorous skits
+* [The McElroy Family](https://www.youtube.com/channel/UC6k_GngLDtxbkUlZOq6_h5g)
 
 ## Locksport
 
@@ -82,6 +83,7 @@ Links to follow soon.
 * OverSimplified - history simplified
 * Sam O'Nella Academy - Weird History
 * Townsends - culinary topics of the colonial times.
+* [Absolute History](https://www.youtube.com/channel/UCr5qeBG9g7bGtMGyHG2GzbQ) - Welcome to Absolute History - the home of fun, shocking and curious tales from throughout history.
 
 ## Roleplaying
 
@@ -105,7 +107,7 @@ Links to follow soon.
 
 ## Technology
 
-* Linus Tech Tips - reviews of computing hardware and builds.
+* [Linus Tech Tips - reviews of computing hardware and builds.](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 
 ## Professionals React
 
