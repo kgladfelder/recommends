@@ -4,7 +4,7 @@ Links to follow soon.
 
 ## Makers
 
-* [Adam Savage's Tested - Props, Costumes, Gadgets](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
+* [Adam Savage's Tested](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA) - Props, Costumes, Gadgets
 * AWE me - Forging/Smithing
 * AvE - Electronics builds, Tool Teardowns, Milling and Metalcraft with an interesting personality
 * Mark Rober - Applied engineering to make weird stuff
@@ -107,7 +107,7 @@ Links to follow soon.
 
 ## Technology
 
-* [Linus Tech Tips - reviews of computing hardware and builds.](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
+* [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) - reviews of computing hardware and builds.
 
 ## Professionals React
 
